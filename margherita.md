@@ -18,3 +18,4 @@
 5. オリーブオイルをかけ、塩をふります。
 6. オーブンで 7〜10 分焼き、チーズがとろけてクラストがきつね色になったら完成です。
    update a pizza recipe and commit.
+   add 18 sep 2025-2 margerita
