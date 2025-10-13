@@ -21,3 +21,4 @@
 7. 完成！
    add Sep 18 2025-1 fungi
 8. add recupes to luigina-fungi-1
+   reduce tomatos
